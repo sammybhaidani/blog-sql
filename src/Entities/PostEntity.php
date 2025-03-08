@@ -1,0 +1,6 @@
+<?php
+
+class PostEntity
+{
+    private 
+}
